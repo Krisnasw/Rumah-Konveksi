@@ -1,0 +1,147 @@
+/*ipad land*/
+@media only screen and (min-width: 960px) and (max-width: 1199px) {
+	.nicdark_container{width:960px;}
+	.nicdark_size_extrabig .nicdark_container { width:920px; }
+	.grid_1 {width:80px;}.grid_2 {width:160px;}.grid_3 {width:240px;}.grid_4 {width:320px;}.grid_5 {width:400px;}.grid_6 {width:480px;}.grid_7 {width:560px;}.grid_8 {width:640px;}.grid_9 {width:720px;}.grid_10 {width:800px;}.grid_11 {width:880px;}.grid_12 {width:960px;}	
+
+	/*some class*/
+	.nicdark_disable_marginleft_ipadland, .nicdark_disable_marginleft_responsive{ margin-left: 0px !important; }
+	.nicdark_disable_marginright_ipadland, .nicdark_disable_marginright_responsive{ margin-right: 0px !important; }
+	.nicdark_aligncenter_ipadland, .nicdark_aligncenter_responsive { text-align: center !important; }
+	.nicdark_width100_ipadland, .nicdark_width100_responsive { width: 100% !important; }
+	.nicdark_marginbottom20_ipadland, .nicdark_marginbottom20_responsive { margin-bottom: 20px; }
+	.nicdark_margin20_ipadland, .nicdark_margin20_responsive { margin: 20px; } 
+
+	/*disable float*/
+	.nicdark_disable_floatleft_ipadland { float: initial !important; }
+	.nicdark_disable_floatright_ipadland { float: initial !important; }
+
+	/*boxed*/
+	.nicdark_site_boxed, .nicdark_menu_boxed{ width: 980px !important; }
+
+	/*display*/
+	.nicdark_displaynone_ipadland, .nicdark_displaynone_responsive{ display: none; }
+	.nicdark_displaynone_desktop { display: block !important; }
+
+	/*navigation*/
+	.slowup{ -webkit-animation: none; animation: none; margin-top: 0px !important; }
+	.slowdown{ -webkit-animation: none; animation: none; margin-top: 0px !important; }
+	.tinynav{ display:none; }
+
+
+	/*megamenu*/
+	.nicdark_megamenu .mm_grid_3{ width: 235px !important; }
+	.nicdark_megamenu .mm_grid_4{ width: 313px !important; }
+	.nicdark_megamenu .mm_grid_6{ width: 470px !important; }
+	.nicdark_megamenu > ul{ width: 940px !important; margin-left: -470px !important; }
+	/*megamenu*/
+
+}
+/*ipad potr*/
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+	.nicdark_container {width:744px;}
+	.nicdark_size_extrabig .nicdark_container { width:704px; }
+	.grid_1 {width:62px;}.grid_2 {width:124px;}.grid_3 {width:186px;}.grid_4 {width:248px;}.grid_5 {width:310px;}.grid_6 {width:372px;}.grid_7 {width:434px;}.grid_8 {width:496px;}.grid_9 {width:558px;}.grid_10 {width:620px;}.grid_11 {width:682px;}.grid_12 {width:744px;}
+
+	/*some class*/
+	.nicdark_disable_marginleft_ipadpotr, .nicdark_disable_marginleft_responsive{ margin-left: 0px !important; }
+	.nicdark_disable_marginright_ipadpotr, .nicdark_disable_marginright_responsive{ margin-right: 0px !important; }
+	.nicdark_aligncenter_ipadpotr, .nicdark_aligncenter_responsive { text-align: center !important; }
+	.nicdark_width100_ipadpotr, .nicdark_width100_responsive { width: 100% !important; }
+	.nicdark_marginbottom20_ipadpotr, .nicdark_marginbottom20_responsive { margin-bottom: 20px; }
+	.nicdark_margin20_ipadpotr, .nicdark_margin20_responsive { margin: 20px; } 
+
+	/*disable float*/
+	.nicdark_disable_floatleft_ipadpotr { float: initial !important; }
+	.nicdark_disable_floatright_ipadpotr { float: initial !important; }
+
+	/*boxed*/
+	.nicdark_site_boxed, .nicdark_menu_boxed{ width: 788px !important; }
+
+	/*display*/
+	.nicdark_displaynone_ipadpotr, .nicdark_displaynone_responsive{ display: none !important; }
+	.nicdark_displaynone_desktop { display: block !important; }
+
+	/*navigation*/
+	.slowup{ -webkit-animation: none; animation: none; margin-top: 0px !important; }
+	.slowdown{ -webkit-animation: none; animation: none; margin-top: 0px !important; }
+	.tinynav{ display:block; }
+	.nicdark_menu{ display:none; }
+
+
+}
+/*iphone land*/
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	body{ -webkit-text-size-adjust:none; }		
+	.nicdark_container {width:460px;}
+	.nicdark_size_extrabig .nicdark_container { width:420px; }
+	.grid_1,.grid_2,.grid_3,.grid_4,.grid_5,.grid_6,.grid_7,.grid_8,.grid_9,.grid_10,.grid_11,.grid_12{ width: 460px; }
+	.grid.percentage{ width: 100%; }
+	.nicdark_width_percentage10,.nicdark_width_percentage20,.nicdark_width_percentage25,.nicdark_width_percentage30,.nicdark_width_percentage40,.nicdark_width_percentage50,.nicdark_width_percentage60,.nicdark_width_percentage70,.nicdark_width_percentage80,.nicdark_width_percentage90,.nicdark_width_percentage100 { width: 100% !important; }
+
+
+	/*some class*/
+	.nicdark_disable_marginleft_iphoneland, .nicdark_disable_marginleft_responsive{ margin-left: 0px !important; }
+	.nicdark_disable_marginright_iphoneland, .nicdark_disable_marginright_responsive{ margin-right: 0px !important; }
+	.nicdark_marginleft20_iphoneland { margin-left: 20px !important; }
+	.nicdark_aligncenter_iphoneland, .nicdark_aligncenter_responsive { text-align: center !important; }
+	.nicdark_width100_iphoneland, .nicdark_width100_responsive { width: 100% !important; }
+	.nicdark_marginbottom20_iphoneland, .nicdark_marginbottom20_responsive { margin-bottom: 20px; }
+	.nicdark_margin20_iphoneland, .nicdark_margin20_responsive { margin: 20px; }
+
+	/*disable float*/
+	.nicdark_disable_floatleft_iphoneland { float: initial !important; }
+	.nicdark_disable_floatright_iphoneland { float: initial !important; }
+
+	/*boxed*/
+	.nicdark_site_boxed, .nicdark_menu_boxed{ width: 500px !important; }
+
+	/*display*/
+	.nicdark_displaynone_iphoneland, .nicdark_displaynone_responsive{ display: none; }
+	.nicdark_displaynone_desktop { display: block !important; }
+
+
+	/*navigation*/
+	.slowup{ -webkit-animation: none; animation: none; margin-top: 0px !important; }
+	.slowdown{ -webkit-animation: none; animation: none; margin-top: 0px !important; }
+	.tinynav{ display:block; }
+	.nicdark_menu{ display:none; }
+
+}
+/*iphone potr*/
+@media only screen and (min-width: 320px) and (max-width: 479px){
+	body{ -webkit-text-size-adjust:none; }
+	.nicdark_container{ width:300px;}
+	.nicdark_size_extrabig .nicdark_container { width:260px; }
+	.grid_1,.grid_2,.grid_3,.grid_4,.grid_5,.grid_6,.grid_7,.grid_8,.grid_9,.grid_10,.grid_11,.grid_12{ width: 300px; }	
+	.grid.percentage{ width: 100%; }
+	.nicdark_width_percentage10,.nicdark_width_percentage20,.nicdark_width_percentage25,.nicdark_width_percentage30,.nicdark_width_percentage40,.nicdark_width_percentage50,.nicdark_width_percentage60,.nicdark_width_percentage70,.nicdark_width_percentage80,.nicdark_width_percentage90,.nicdark_width_percentage100 { width: 100% !important; }
+
+	
+	/*some class*/
+	.nicdark_disable_marginleft_iphonepotr, .nicdark_disable_marginleft_responsive { margin-left: 0px !important; }
+	.nicdark_disable_marginright_iphonepotr, .nicdark_disable_marginright_responsive{ margin-right: 0px !important; }
+	.nicdark_marginleft20_iphonepotr { margin-left: 20px !important; }
+	.nicdark_aligncenter_iphonepotr, .nicdark_aligncenter_responsive { text-align: center !important; }
+	.nicdark_width100_iphonepotr, .nicdark_width100_responsive { width: 100% !important; }
+	.nicdark_marginbottom20_iphonepotr, .nicdark_marginbottom20_responsive { margin-bottom: 20px; }
+	.nicdark_margin20_iphonepotr, .nicdark_margin20_responsive { margin: 20px; }
+
+	/*disable float*/
+	.nicdark_disable_floatleft_iphonepotr { float: initial !important; }
+	.nicdark_disable_floatright_iphonepotr { float: initial !important; }
+
+	/*boxed*/
+	.nicdark_site_boxed, .nicdark_menu_boxed{ width: 340px !important; }
+
+	/*display*/
+	.nicdark_displaynone_iphonepotr, .nicdark_displaynone_responsive{ display: none; }
+	.nicdark_displaynone_desktop { display: block !important; }
+
+
+	/*navigation*/
+	.slowup{ -webkit-animation: none; animation: none; margin-top: 0px !important; }
+	.slowdown{ -webkit-animation: none; animation: none; margin-top: 0px !important; }
+	.tinynav{ display:block; }
+	.nicdark_menu{ display:none; }
+}

@@ -1,0 +1,5 @@
+[27-May-2015 11:18:00 Asia/Jakarta] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/tokosa18/public_html/shop/aksa-admin/modul/mod_stok/aksi_stok.php on line 12
+[27-May-2015 11:18:00 Asia/Jakarta] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/tokosa18/public_html/shop/aksa-admin/modul/mod_stok/aksi_stok.php on line 13
+[27-May-2015 11:18:00 Asia/Jakarta] PHP Notice:  Use of undefined constant id_produk - assumed 'id_produk' in /home/tokosa18/public_html/shop/aksa-admin/modul/mod_stok/aksi_stok.php on line 26
+[27-May-2015 11:18:00 Asia/Jakarta] PHP Notice:  Use of undefined constant penambahan_stok - assumed 'penambahan_stok' in /home/tokosa18/public_html/shop/aksa-admin/modul/mod_stok/aksi_stok.php on line 27
+[27-May-2015 11:18:00 Asia/Jakarta] PHP Notice:  Use of undefined constant stok_awal - assumed 'stok_awal' in /home/tokosa18/public_html/shop/aksa-admin/modul/mod_stok/aksi_stok.php on line 28

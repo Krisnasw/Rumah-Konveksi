@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<title>jQuery UI Datepicker - Display multiple months</title>
+	<link type="text/css" href="jquery.ui.theme.css" rel="stylesheet" />
+	<link type="text/css" href="jquery-ui.css" rel="stylesheet" />
+	<link type="text/css" href="jquery.ui.datepicker.css" rel="stylesheet" />
+	<script type="text/javascript" src="jquery-1.4.2.js"></script>
+	<script type="text/javascript" src="jquery.ui.core.js"></script>
+	<script type="text/javascript" src="jquery.ui.widget.js"></script>
+	<script type="text/javascript" src="jquery.ui.datepicker.js"></script>
+	<link type="text/css" href="demos.css" rel="stylesheet" />
+	<script type="text/javascript">
+	$(function() {
+		var dates = $('#from, #to').datepicker({
+		
+			showOn: 'button',
+			buttonImage: 'images/calendar.gif',
+			buttonImageOnly: true,
+			defaultDate: "+1w",
+			changeMonth: true,
+			numberOfMonths: 1,
+			dateFormat: "dd MM, yy",altField: '#alternate', altFormat: 'DD, d MM, yy',
+			onSelect: function(selectedDate) {
+				var option = this.id == "from" ? "minDate" : "maxDate";
+				var instance = $(this).data("datepicker");
+				var date = $.datepicker.parseDate(instance.settings.dateFormat || $.datepicker._defaults.dateFormat, selectedDate, instance.settings);
+				dates.not(this).datepicker("option", option, date);
+			}
+		});
+	});
+	</script>
+</head>
+<body>
+
+<div class="demo">
+
+<label for="from">Check in</label><br>
+<input type="text" id="alternate" name="alternate"/>
+<input type="text" id="from" name="from"/><br>
+<label for="to">Check out</label><br>
+<input type="text" id="to1" name="to"/>
+<input type="text" id="to" name="to"/><br>
+
+</div><!-- End demo -->
+
+</body>
+</html>

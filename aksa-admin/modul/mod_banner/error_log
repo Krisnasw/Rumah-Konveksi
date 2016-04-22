@@ -1,0 +1,10 @@
+[02-Jun-2015 10:34:38 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/tokosa18/public_html/shop/config/fungsi_thumb.php on line 138
+[02-Jun-2015 10:34:38 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '../../../foto_banner/tokosaniyah.png' is not a valid JPEG file in /home/tokosa18/public_html/shop/config/fungsi_thumb.php on line 138
+[02-Jun-2015 10:34:38 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/tokosa18/public_html/shop/config/fungsi_thumb.php on line 139
+[02-Jun-2015 10:34:38 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/tokosa18/public_html/shop/config/fungsi_thumb.php on line 140
+[02-Jun-2015 10:34:38 Asia/Jakarta] PHP Warning:  Division by zero in /home/tokosa18/public_html/shop/config/fungsi_thumb.php on line 145
+[02-Jun-2015 10:34:38 Asia/Jakarta] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/tokosa18/public_html/shop/config/fungsi_thumb.php on line 148
+[02-Jun-2015 10:34:38 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/tokosa18/public_html/shop/config/fungsi_thumb.php on line 149
+[02-Jun-2015 10:34:38 Asia/Jakarta] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/tokosa18/public_html/shop/config/fungsi_thumb.php on line 152
+[02-Jun-2015 10:34:38 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/tokosa18/public_html/shop/config/fungsi_thumb.php on line 155
+[02-Jun-2015 10:34:38 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/tokosa18/public_html/shop/config/fungsi_thumb.php on line 156

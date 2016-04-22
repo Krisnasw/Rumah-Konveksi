@@ -1,0 +1,6 @@
+[02-Jun-2015 02:50:31 UTC] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/tokosa18/public_html/shop/aksa-admin/modul/mod_modul/aksi_modul.php on line 11
+[02-Jun-2015 02:50:31 UTC] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/tokosa18/public_html/shop/aksa-admin/modul/mod_modul/aksi_modul.php on line 12
+[02-Jun-2015 02:50:31 UTC] PHP Notice:  Use of undefined constant urutan - assumed 'urutan' in /home/tokosa18/public_html/shop/aksa-admin/modul/mod_modul/aksi_modul.php on line 25
+[05-Jun-2015 18:08:03 UTC] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/tokosa18/public_html/shop/aksa-admin/modul/mod_modul/aksi_modul.php on line 11
+[05-Jun-2015 18:08:03 UTC] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/tokosa18/public_html/shop/aksa-admin/modul/mod_modul/aksi_modul.php on line 12
+[05-Jun-2015 18:08:03 UTC] PHP Notice:  Use of undefined constant urutan - assumed 'urutan' in /home/tokosa18/public_html/shop/aksa-admin/modul/mod_modul/aksi_modul.php on line 25

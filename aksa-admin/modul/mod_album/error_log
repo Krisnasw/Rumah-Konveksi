@@ -1,0 +1,6 @@
+[27-May-2015 11:20:45 Asia/Jakarta] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/tokosa18/public_html/shop/aksa-admin/modul/mod_album/aksi_album.php on line 14
+[27-May-2015 11:20:45 Asia/Jakarta] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/tokosa18/public_html/shop/aksa-admin/modul/mod_album/aksi_album.php on line 15
+[27-May-2015 11:20:45 Asia/Jakarta] PHP Notice:  Use of undefined constant album - assumed 'album' in /home/tokosa18/public_html/shop/aksa-admin/modul/mod_album/aksi_album.php on line 146
+[27-May-2015 11:20:56 Asia/Jakarta] PHP Notice:  Use of undefined constant module - assumed 'module' in /home/tokosa18/public_html/shop/aksa-admin/modul/mod_album/aksi_album.php on line 14
+[27-May-2015 11:20:56 Asia/Jakarta] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/tokosa18/public_html/shop/aksa-admin/modul/mod_album/aksi_album.php on line 15
+[27-May-2015 11:20:56 Asia/Jakarta] PHP Notice:  Use of undefined constant id_album - assumed 'id_album' in /home/tokosa18/public_html/shop/aksa-admin/modul/mod_album/aksi_album.php on line 174

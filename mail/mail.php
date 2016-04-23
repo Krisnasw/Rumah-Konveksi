@@ -122,7 +122,7 @@ img {
     <a href="'.$alamat_website.'/reset-password-'.$id_kustomer.'" target="_blank">Reset Password</a>
   <br><br>
   Thanks,<br>
-  AksaMedia Tim.
+  Intive Studio.
   <br><br>
 </div>
 
@@ -131,7 +131,7 @@ img {
         <tr>
           <td class="container-padding footer-text" align="left" style="font-family:Helvetica, Arial, sans-serif;font-size:12px;line-height:16px;color:#aaaaaa;padding-left:24px;padding-right:24px">
             <br><br>
-            <a href="'.$alamat_website.'" style="color:#aaaaaa" target="_blank">'.$alamat_website.'</a> © 2015 AksaMedia Tim.
+            <a href="'.$alamat_website.'" style="color:#aaaaaa" target="_blank">'.$alamat_website.'</a> © 2016 Intive Studio.
             <br><br>
 
             <br>
@@ -184,13 +184,13 @@ $mail->SMTPSecure = 'tls';
 $mail->SMTPAuth = true;
 
 //Username to use for SMTP authentication - use full email address for gmail
-$mail->Username = "developer.aksamedia@gmail.com";
+$mail->Username = "intives@gmail.com";
 
 //Password to use for SMTP authentication
-$mail->Password = "12345jos";
+$mail->Password = "krisna23";
 
 //Set who the message is to be sent from
-$mail->setFrom('developer.aksamedia@gmail.com', 'RESET YOUR PASSWORD');
+$mail->setFrom('intives@gmail.com', 'RESET YOUR PASSWORD');
 
 //Set an alternative reply-to address
 $mail->addReplyTo("$mail_klien", 'RESET YOUR PASSWORD');
@@ -373,7 +373,7 @@ img {
           <td class="container-padding content" align="left" style="padding-left:24px;padding-right:24px;padding-top:12px;padding-bottom:12px;background-color:#ffffff">
             <br>
 
-<div class="title" style="font-family:Helvetica, Arial, sans-serif;font-size:18px;font-weight:600;color:#374550">Pesanan Anda Dari Toko Boneka</div>
+<div class="title" style="font-family:Helvetica, Arial, sans-serif;font-size:18px;font-weight:600;color:#374550">Pesanan Anda Dari Rumah Konveksi</div>
 <br>
 
 <div class="body-text" style="font-family:Helvetica, Arial, sans-serif;font-size:14px;line-height:20px;text-align:left;color:#333333">';
@@ -438,7 +438,7 @@ $body_mail .='
         <tr>
           <td class="container-padding footer-text" align="left" style="font-family:Helvetica, Arial, sans-serif;font-size:12px;line-height:16px;color:#aaaaaa;padding-left:24px;padding-right:24px">
             <br><br>
-            <a href="'.$alamat_website.'" style="color:#aaaaaa" target="_blank">'.$alamat_website.'</a> © 2015 AksaMedia Tim.
+            <a href="'.$alamat_website.'" style="color:#aaaaaa" target="_blank">'.$alamat_website.'</a> © 2016 Intive Studio.
             <br><br>
 
             <br>
@@ -487,16 +487,16 @@ $mail->SMTPSecure = 'tls';
 $mail->SMTPAuth = true;
 
 //Username to use for SMTP authentication - use full email address for gmail
-$mail->Username = "developer.aksamedia@gmail.com";
+$mail->Username = "intives@gmail.com";
 
 //Password to use for SMTP authentication
-$mail->Password = "12345jos";
+$mail->Password = "krisna23";
 
 //Set who the message is to be sent from
-$mail->setFrom('developer.aksamedia@gmail.com', 'Pesanan Toko Boneka');
+$mail->setFrom('intives@gmail.com', 'Invoice Pemesanan Anda');
 
 //Set an alternative reply-to address
-$mail->addReplyTo('developer.aksamedia@gmail.com', 'Pesanan Toko Boneka');
+$mail->addReplyTo('intives@gmail.com', 'Invoice Pemesanan Anda');
 
 //Set who the message is to be sent to
 $mail->addAddress("$email", "$email");
@@ -528,7 +528,7 @@ $mail->Body = $body_mail;
   curl_setopt($ch, CURLOPT_RETURNTRANSFER,true);                                                                                                                                                                                                                                                                                               
   $result = curl_exec($ch);
   
-  echo "<script>alert('Kami akan mengirimkan detail produk ke email anda.'); window.location='$alamat_website'</script>";
+  echo "<script>alert('Invoice Telah Terkirim ke Email Anda.'); window.location='$alamat_website'</script>";
   } 
   else {
       echo "<script>window.location='$alamat_website'</script>";

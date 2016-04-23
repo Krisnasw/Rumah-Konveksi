@@ -1,3 +1,24 @@
+<?php
+include "function.php";
+error_reporting(0);
+$boneka = new Boneka();
+
+if (isset($_POST["submit"])) {
+    # code...
+    $pengirim = $_POST["pengirim"];
+    $email = $_POST["email"];
+    $alamat = $_POST["alamat"];
+    $telp = $_POST['telp'];
+    $pesan = $_POST["pesan"];
+    $gambar = mysql_escape_string($_FILES["image"]["name"]);
+    $ext= pathinfo($gambar,PATHINFO_EXTENSION);
+    $ukuran = $_FILES["image"]["size"];
+    $lokasi = $_FILES["image"]["tmp_name"];
+
+    $boneka->Custom($pengirim, $email, $alamat, $pesan, $telp, $gambar, $ext, $ukuran, $lokasi);
+}
+
+?>
 <!DOCTYPE html>
 <!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
 <!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
@@ -9,14 +30,6 @@
     
     <title>Boneka Indonesia | Custom</title> 
 
-<!--START CSS--> 
-<!-- 
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
-
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
-
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script> -->
-
     <!-- BEGIN PAGE LEVEL STYLES -->
     <link href="<?php echo "$f[folder]/"; ?>assets/css/blueimp-gallery.min.css" rel="stylesheet"/>
     <link href="<?php echo "$f[folder]/"; ?>assets/css/jquery.fileupload.css" rel="stylesheet"/>
@@ -26,10 +39,6 @@
     <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
     <link rel="stylesheet" href="<?php echo "$f[folder]/"; ?>assets/css/nicdark_style.css"> <!--style-->
     <link rel="stylesheet" href="<?php echo "$f[folder]/"; ?>assets/css/nicdark_responsive.css"> <!--nicdark_responsive-->
-
-    <!--revslider-->
-    <link rel="stylesheet" href="css/revslider/settings.css"> <!--revslider-->
-    <link href="css/toastr.min.css" rel="stylesheet" type="text/css"/>
     
     <!--END CSS-->
 
@@ -40,11 +49,6 @@
     <!--FAVICONS-->
     <link rel="shortcut icon" href="img/favicon/favicon.ico">
     <!--END FAVICONS-->
-    
-  <script src="js/main/jquery2.min.js"></script> <!--Jquery-->
-    <script src="js/main/bootstrap.min.js"></script> <!--BOOTSTRAP-->
-  
-
     
 </head>  
 <body id="start_nicdark_framework">
@@ -67,7 +71,7 @@
         <div class="grid grid_12">
             <h1 class="grey2 center"><span class="grey">- </span>Custom Design<span class="grey"> -</span></h1>
             <div class="nicdark_space20"></div>
-            <p class="grey2 center"><i>Silahkan upload gambar sketsa/foto dari pakaian yang ingin anda wujudkan</i></p>
+            <p class="grey2 center"><i>Silahkan upload gambar sketsa/foto yang ingin anda wujudkan</i></p>
             <div class="nicdark_focus center">
                 <h2 class="nicdark_icon-dress2 grey"></h2>              
             </div>
@@ -91,29 +95,54 @@
             <div class="portlet light">
                 <div class="portlet-body">
                     <div class="row">
-                        <div class="col-md-12">                         
-                            <form id="fileupload" action="fileupload/" method="POST" enctype="multipart/form-data">
+                        <div class="col-md-12">
+                            <form id="fileupload" action="#" method="POST" enctype="multipart/form-data">
                                 <!-- The fileupload-buttonbar contains buttons to add/delete files and start/cancel the upload -->
                                 <div class="row">
-                                    <div class="col-lg-7">
+                                    <div class="col-lg-8 col-lg-offset-2 ">
+                                    <div class="form-group slct">
+                                      <label>Nama Pengirim :</label>
+                                      <input type="text" class="form-control" name="pengirim">
+                                    </div>
+                                    <div class="form-group slct">
+                                      <label>Email :</label>
+                                      <input type="text" class="form-control" name="email">
+                                    </div>
+                                    <div class="form-group slct">
+                                      <label>Alamat :</label>
+                                      <input type="text" class="form-control" name="alamat">
+                                    </div>
+                                    <div class="form-group slct">
+                                      <label>Telp :</label>
+                                      <input type="text" class="form-control" name="telp">
+                                    </div>
+                                    <div class="form-group slct">
+                                      <label for="sel1">Pilih Tipe Pesanan:</label>
+                                      <select class='form-control' id='sel1' name="pesan" required>
+                                      <?php
+                                        $q  = mysql_query("SELECT  * from  subkategori ORDER BY id_subkategori desc");
+                                        while($f = mysql_fetch_array($q)) {
+                                        echo "
+                                        <option value='$f[id_kategori]'>$f[nama_sub]</option>
+                                            ";
+                                        }
+                                        ?>
+                                        </select>
+                                    </div><br>
                                         <!-- The fileinput-button span is used to style the file input field as button -->
-                                        <span class="btn green fileinput-button">
-                                        <i class="fa fa-plus"></i>
-                                        <span>
-                                        Add files... </span>
-                                        <input type="file" name="files[]" multiple="">
-                                        </span>
-                                        <button type="submit" class="btn blue start">
+                                        <input type="file" class="btn fileinput-button" name="image"><br>
+
+                                        <button type="submit" class="btn btn-default start" name="submit">
                                         <i class="fa fa-upload"></i>
                                         <span>
                                         Start upload </span>
                                         </button>
-                                        <button type="reset" class="btn warning cancel">
-                                        <i class="fa fa-ban-circle"></i>
+                                        <button type="reset" class="btn btn-danger cancel">
+                                        <i class="fa fa-ban"></i>
                                         <span>
                                         Cancel upload </span>
                                         </button>
-                                        <input type="checkbox" class="toggle">
+                                        
                                         <!-- The global file processing state -->
                                         <span class="fileupload-process">
                                         </span>
@@ -138,7 +167,7 @@
                                 </table>
                             </form>
 
-                            <div class="col-md-8">
+                            <div class="col-md-8 col-md-offset-2">
                             <div class="panel panel-success">
                                 <div class="panel-heading">
                                     <h3 class="panel-title">Notes</h3>
@@ -150,10 +179,10 @@
                                              Silahkan pilih gambar yang ingin anda upload dengan klik Add Files, atau dengan drag & drop file tersebut.
                                         </li>
                                         <li>
-                                             Maximum ukuran file yang bisa diterima adalah <strong>5 MB</strong>.
+                                             Maximum ukuran file yang bisa diterima adalah <strong>500 KB</strong>.
                                         </li>
                                         <li>
-                                             Hanya file gambar berformat (<strong>JPG, JPEG, GIF, PNG</strong>) yang dapat kami terima, selain itu akan ditolak.
+                                             Hanya file gambar berformat (<strong>JPG, JPEG, PNG</strong>) yang dapat kami terima, selain itu akan ditolak.
                                         </li>                                       
                                     </ul>
                                     </center>

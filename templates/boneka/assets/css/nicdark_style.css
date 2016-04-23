@@ -125,7 +125,7 @@ p.red,h1.red,h2.red,h3.red,h4.red,h5.red,h6.red,a.red,i.red,span.red, input[type
 p.center,h1.center,h2.center,h3.center,h4.center,h5.center,h6.center,i.center{ text-align: center; }
 p.right,h1.right,h2.right,h3.right,h4.right,h5.right,h6.right, span.right{ float: right; }
 /*size*/
-p{ font-size:15px; line-height: 22px; color:#868584; font-family: 'Raleway', serif; }
+p{ font-size:15px; line-height: 22px; color:#868584; font-family: 'Raleway', serif; max-width: 500px;}
 p.title{ font-family: 'Roboto Slab', sans-serif !important; font-weight: 300; }
 h1{ font-size: 30px; line-height: 30px; font-weight: 300; }
 h1.extrasize{ font-size: 45px; line-height: 45px; }

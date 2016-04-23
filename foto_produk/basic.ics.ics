@@ -1,0 +1,931 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Startup & Tech Events in Indonesia - TIA
+X-WR-TIMEZONE:Asia/Jakarta
+X-WR-CALDESC:Satu kalender untuk semua event startup & teknologi di Indones
+ ia.
+BEGIN:VEVENT
+DTSTART:20160528T020000Z
+DTEND:20160529T110000Z
+DTSTAMP:20160407T114350Z
+ORGANIZER;CN=Arminto Natanagari:mailto:arminto.nn@gmail.com
+UID:unff7nqn7v4mg0ttl9lljfd4mo@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;CN=Start
+ up & Tech Events in Indonesia - TIA;X-NUM-GUESTS=0:mailto:techinasia.com_pu
+ l1gvbcmrkkgd82abunkdjgr8@group.calendar.google.com
+X-GOOGLE-HANGOUT:https://plus.google.com/hangouts/_/calendar/YXJtaW50by5ubk
+ BnbWFpbC5jb20.unff7nqn7v4mg0ttl9lljfd4mo
+CREATED:20160407T023440Z
+DESCRIPTION:4 years. More than 300 hackathons. More than 96 cities around t
+ he globe. We’ve seen it all. And from all of these events\\\, we’ve noticed
+  one thing: Anyone. Can. Code.\nAge\\\, race\\\, gender\\\, experience leve
+ l\\\, it doesn’t matter. Passion and dedication is what you need to create 
+ apps and technologies that have never been imagined before. Implementation 
+ and creativity are what differentiate you. Mind and skill are what conquer 
+ all.\nWelcome to AngelHack’s 9th Global Hackathon Series\\\, where Anyone. 
+ Can. Code.\n\nPrizes:\nLet’s face it\\\, prizes just make hackathons more f
+ un. That’s why each year\\\, we team up with our sponsors to bring you an a
+ wesome set of prizes. Drumroll please:\n\nAn exclusive invite to our HACKce
+ lerator Program\n- A 12-week Curriculum to turn your hackathon idea into a 
+ startup reality\n- A diverse network of both local and global mentors\n- We
+ ekly guest speakers\n- A chance to fly to Silicon Valley for our Annual Glo
+ bal Demo Day and participate in a week of extensive pitch training!\n- Free
+  membership to work at Freeware Spaces for 3 months\nAmazon Web Services\n-
+  Prize: $100 in AWS Credits per person through AWS Activate and \n- AWS Fre
+ e Usage Tier\n- 1 month AWS Support at Business level\n- AWS Technical Esse
+ ntials Online Training ($600 value)\n- AWS Business Essentials Online Train
+ ing ($600 value)\n- 80 credits for Self-paced labs Training ($80 value)\n- 
+ 1:1 Office Hours with AWS Solutions Architects\n- Access to the Startup Blo
+ g and Startup Forum\n- Special "Self-starter" Third-Party offers\n\nLink: h
+ ttps://aws.amazon.com/activate/event/a20h16hck/ \n\nStay Tuned for More Pri
+ zes to Come!\n
+LAST-MODIFIED:20160407T024055Z
+LOCATION:Freeware Spaces\\\, No. No.4\\\, Jl. Bangka XII\\\, Mampang Prpt.\
+ \\, DKI Jakarta\\\, Daerah Khusus Ibukota Jakarta\\\, Indonesia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:AngelHack Jakarta 2016
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160528T020000Z
+DTEND:20160529T110000Z
+DTSTAMP:20160407T114350Z
+ORGANIZER;CN=Arminto Natanagari:mailto:arminto.nn@gmail.com
+UID:8m4ms6ln1bg1o44nnhk0vr4uqk@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=St
+ artup & Tech Events in Indonesia - TIA;X-NUM-GUESTS=0:mailto:techinasia.com
+ _pul1gvbcmrkkgd82abunkdjgr8@group.calendar.google.com
+X-GOOGLE-HANGOUT:https://plus.google.com/hangouts/_/calendar/YXJtaW50by5ubk
+ BnbWFpbC5jb20.8m4ms6ln1bg1o44nnhk0vr4uqk
+CREATED:20160407T023435Z
+DESCRIPTION:4 years. More than 300 hackathons. More than 96 cities around t
+ he globe. We’ve seen it all. And from all of these events\\\\\\\, we’ve not
+ iced one thing: Anyone. Can. Code.\nAge\\\\\\\, race\\\\\\\, gender\\\\\\\,
+  experience level\\\\\\\, it doesn’t matter. Passion and dedication is what
+  you need to create apps and technologies that have never been imagined bef
+ ore. Implementation and creativity are what differentiate you. Mind and ski
+ ll are what conquer all.\nWelcome to AngelHack’s 9th Global Hackathon Serie
+ s\\\\\\\, where Anyone. Can. Code.\n\nPrizes:\nLet’s face it\\\\\\\, prizes
+  just make hackathons more fun. That’s why each year\\\\\\\, we team up wit
+ h our sponsors to bring you an awesome set of prizes. Drumroll please:\n\nA
+ n exclusive invite to our HACKcelerator Program\n- A 12-week Curriculum to 
+ turn your hackathon idea into a startup reality\n- A diverse network of bot
+ h local and global mentors\n- Weekly guest speakers\n- A chance to fly to S
+ ilicon Valley for our Annual Global Demo Day and participate in a week of e
+ xtensive pitch training!\n- Free membership to work at Freeware Spaces for 
+ 3 months\nAmazon Web Services\n- Prize: $100 in AWS Credits per person thro
+ ugh AWS Activate and \n- AWS Free Usage Tier\n- 1 month AWS Support at Busi
+ ness level\n- AWS Technical Essentials Online Training ($600 value)\n- AWS 
+ Business Essentials Online Training ($600 value)\n- 80 credits for Self-pac
+ ed labs Training ($80 value)\n- 1:1 Office Hours with AWS Solutions Archite
+ cts\n- Access to the Startup Blog and Startup Forum\n- Special "Self-starte
+ r" Third-Party offers\n\nLink: https://aws.amazon.com/activate/event/a20h16
+ hck/ \n\nStay Tuned for More Prizes to Come!\n
+LAST-MODIFIED:20160407T023435Z
+LOCATION:Freeware Spaces\\\\\\\, No. No.4\\\\\\\, Jl. Bangka XII\\\\\\\, Ma
+ mpang Prpt.\\\\\\\, DKI Jakarta\\\\\\\, Daerah Khusus Ibukota Jakarta\\\\\\
+ \, Indonesia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:AngelHack Jakarta 2016
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160528T020000Z
+DTEND:20160529T110000Z
+DTSTAMP:20160407T114350Z
+ORGANIZER;CN=Arminto Natanagari:mailto:arminto.nn@gmail.com
+UID:eiakmmjuf3roqtl2q8oc9epkm4@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=St
+ artup & Tech Events in Indonesia - TIA;X-NUM-GUESTS=0:mailto:techinasia.com
+ _pul1gvbcmrkkgd82abunkdjgr8@group.calendar.google.com
+X-GOOGLE-HANGOUT:https://plus.google.com/hangouts/_/calendar/YXJtaW50by5ubk
+ BnbWFpbC5jb20.eiakmmjuf3roqtl2q8oc9epkm4
+CREATED:20160407T023434Z
+DESCRIPTION:4 years. More than 300 hackathons. More than 96 cities around t
+ he globe. We’ve seen it all. And from all of these events\\\\\\\\\\\\\\\, w
+ e’ve noticed one thing: Anyone. Can. Code.\nAge\\\\\\\\\\\\\\\, race\\\\\\\
+ \\\\\\\\, gender\\\\\\\\\\\\\\\, experience level\\\\\\\\\\\\\\\, it doesn’
+ t matter. Passion and dedication is what you need to create apps and techno
+ logies that have never been imagined before. Implementation and creativity 
+ are what differentiate you. Mind and skill are what conquer all.\nWelcome t
+ o AngelHack’s 9th Global Hackathon Series\\\\\\\\\\\\\\\, where Anyone. Can
+ . Code.\n\nPrizes:\nLet’s face it\\\\\\\\\\\\\\\, prizes just make hackatho
+ ns more fun. That’s why each year\\\\\\\\\\\\\\\, we team up with our spons
+ ors to bring you an awesome set of prizes. Drumroll please:\n\nAn exclusive
+  invite to our HACKcelerator Program\n- A 12-week Curriculum to turn your h
+ ackathon idea into a startup reality\n- A diverse network of both local and
+  global mentors\n- Weekly guest speakers\n- A chance to fly to Silicon Vall
+ ey for our Annual Global Demo Day and participate in a week of extensive pi
+ tch training!\n- Free membership to work at Freeware Spaces for 3 months\nA
+ mazon Web Services\n- Prize: $100 in AWS Credits per person through AWS Act
+ ivate and \n- AWS Free Usage Tier\n- 1 month AWS Support at Business level\
+ n- AWS Technical Essentials Online Training ($600 value)\n- AWS Business Es
+ sentials Online Training ($600 value)\n- 80 credits for Self-paced labs Tra
+ ining ($80 value)\n- 1:1 Office Hours with AWS Solutions Architects\n- Acce
+ ss to the Startup Blog and Startup Forum\n- Special "Self-starter" Third-Pa
+ rty offers\n\nLink: https://aws.amazon.com/activate/event/a20h16hck/ \n\nSt
+ ay Tuned for More Prizes to Come!\n
+LAST-MODIFIED:20160407T023434Z
+LOCATION:Freeware Spaces\\\\\\\\\\\\\\\, No. No.4\\\\\\\\\\\\\\\, Jl. Bangk
+ a XII\\\\\\\\\\\\\\\, Mampang Prpt.\\\\\\\\\\\\\\\, DKI Jakarta\\\\\\\\\\\\
+ \\\, Daerah Khusus Ibukota Jakarta\\\\\\\\\\\\\\\, Indonesia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:AngelHack Jakarta 2016
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160528T020000Z
+DTEND:20160529T110000Z
+DTSTAMP:20160407T114350Z
+ORGANIZER;CN=nenda sukendar:mailto:nendasukendar@gmail.com
+UID:u551bg0eihj10qo0ac1jgga3i0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=St
+ artup & Tech Events in Indonesia - TIA;X-NUM-GUESTS=0:mailto:techinasia.com
+ _pul1gvbcmrkkgd82abunkdjgr8@group.calendar.google.com
+CREATED:20160406T124244Z
+DESCRIPTION:4 years. More than 300 hackathons. More than 96 cities around t
+ he globe. We’ve seen it all. And from all of these events\, we’ve noticed o
+ ne thing: Anyone. Can. Code.\nAge\, race\, gender\, experience level\, it d
+ oesn’t matter. Passion and dedication is what you need to create apps and t
+ echnologies that have never been imagined before. Implementation and creati
+ vity are what differentiate you. Mind and skill are what conquer all.\nWelc
+ ome to AngelHack’s 9th Global Hackathon Series\, where Anyone. Can. Code.\n
+ \nPrizes:\nLet’s face it\, prizes just make hackathons more fun. That’s why
+  each year\, we team up with our sponsors to bring you an awesome set of pr
+ izes. Drumroll please:\n\nAn exclusive invite to our HACKcelerator Program\
+ n- A 12-week Curriculum to turn your hackathon idea into a startup reality\
+ n- A diverse network of both local and global mentors\n- Weekly guest speak
+ ers\n- A chance to fly to Silicon Valley for our Annual Global Demo Day and
+  participate in a week of extensive pitch training!\n- Free membership to w
+ ork at Freeware Spaces for 3 months\nAmazon Web Services\n- Prize: $100 in 
+ AWS Credits per person through AWS Activate and \n- AWS Free Usage Tier\n- 
+ 1 month AWS Support at Business level\n- AWS Technical Essentials Online Tr
+ aining ($600 value)\n- AWS Business Essentials Online Training ($600 value)
+ \n- 80 credits for Self-paced labs Training ($80 value)\n- 1:1 Office Hours
+  with AWS Solutions Architects\n- Access to the Startup Blog and Startup Fo
+ rum\n- Special "Self-starter" Third-Party offers\n\nLink: https://aws.amazo
+ n.com/activate/event/a20h16hck/ \n\nStay Tuned for More Prizes to Come!
+LAST-MODIFIED:20160406T124244Z
+LOCATION:Freeware Spaces\, No. No.4\, Jl. Bangka XII\, Mampang Prpt.\, DKI 
+ Jakarta\, Daerah Khusus Ibukota Jakarta\, Indonesia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:AngelHack Jakarta 2016
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160528T020000Z
+DTEND:20160529T110000Z
+DTSTAMP:20160407T114350Z
+ORGANIZER;CN=nenda sukendar:mailto:nendasukendar@gmail.com
+UID:al28cil93ltjvbenqjv8rf7njo@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=St
+ artup & Tech Events in Indonesia - TIA;X-NUM-GUESTS=0:mailto:techinasia.com
+ _pul1gvbcmrkkgd82abunkdjgr8@group.calendar.google.com
+CREATED:20160406T124243Z
+DESCRIPTION:4 years. More than 300 hackathons. More than 96 cities around t
+ he globe. We’ve seen it all. And from all of these events\\\, we’ve noticed
+  one thing: Anyone. Can. Code.\nAge\\\, race\\\, gender\\\, experience leve
+ l\\\, it doesn’t matter. Passion and dedication is what you need to create 
+ apps and technologies that have never been imagined before. Implementation 
+ and creativity are what differentiate you. Mind and skill are what conquer 
+ all.\nWelcome to AngelHack’s 9th Global Hackathon Series\\\, where Anyone. 
+ Can. Code.\n\nPrizes:\nLet’s face it\\\, prizes just make hackathons more f
+ un. That’s why each year\\\, we team up with our sponsors to bring you an a
+ wesome set of prizes. Drumroll please:\n\nAn exclusive invite to our HACKce
+ lerator Program\n- A 12-week Curriculum to turn your hackathon idea into a 
+ startup reality\n- A diverse network of both local and global mentors\n- We
+ ekly guest speakers\n- A chance to fly to Silicon Valley for our Annual Glo
+ bal Demo Day and participate in a week of extensive pitch training!\n- Free
+  membership to work at Freeware Spaces for 3 months\nAmazon Web Services\n-
+  Prize: $100 in AWS Credits per person through AWS Activate and \n- AWS Fre
+ e Usage Tier\n- 1 month AWS Support at Business level\n- AWS Technical Esse
+ ntials Online Training ($600 value)\n- AWS Business Essentials Online Train
+ ing ($600 value)\n- 80 credits for Self-paced labs Training ($80 value)\n- 
+ 1:1 Office Hours with AWS Solutions Architects\n- Access to the Startup Blo
+ g and Startup Forum\n- Special "Self-starter" Third-Party offers\n\nLink: h
+ ttps://aws.amazon.com/activate/event/a20h16hck/ \n\nStay Tuned for More Pri
+ zes to Come!
+LAST-MODIFIED:20160406T124244Z
+LOCATION:Freeware Spaces\\\, No. No.4\\\, Jl. Bangka XII\\\, Mampang Prpt.\
+ \\, DKI Jakarta\\\, Daerah Khusus Ibukota Jakarta\\\, Indonesia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:AngelHack Jakarta 2016
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160528T020000Z
+DTEND:20160529T110000Z
+DTSTAMP:20160407T114350Z
+ORGANIZER;CN=nenda sukendar:mailto:nendasukendar@gmail.com
+UID:4u2qreo5vbmiqpugaqfucul9s8@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=St
+ artup & Tech Events in Indonesia - TIA;X-NUM-GUESTS=0:mailto:techinasia.com
+ _pul1gvbcmrkkgd82abunkdjgr8@group.calendar.google.com
+CREATED:20160406T124242Z
+DESCRIPTION:4 years. More than 300 hackathons. More than 96 cities around t
+ he globe. We’ve seen it all. And from all of these events\\\\\\\, we’ve not
+ iced one thing: Anyone. Can. Code.\nAge\\\\\\\, race\\\\\\\, gender\\\\\\\,
+  experience level\\\\\\\, it doesn’t matter. Passion and dedication is what
+  you need to create apps and technologies that have never been imagined bef
+ ore. Implementation and creativity are what differentiate you. Mind and ski
+ ll are what conquer all.\nWelcome to AngelHack’s 9th Global Hackathon Serie
+ s\\\\\\\, where Anyone. Can. Code.\n\nPrizes:\nLet’s face it\\\\\\\, prizes
+  just make hackathons more fun. That’s why each year\\\\\\\, we team up wit
+ h our sponsors to bring you an awesome set of prizes. Drumroll please:\n\nA
+ n exclusive invite to our HACKcelerator Program\n- A 12-week Curriculum to 
+ turn your hackathon idea into a startup reality\n- A diverse network of bot
+ h local and global mentors\n- Weekly guest speakers\n- A chance to fly to S
+ ilicon Valley for our Annual Global Demo Day and participate in a week of e
+ xtensive pitch training!\n- Free membership to work at Freeware Spaces for 
+ 3 months\nAmazon Web Services\n- Prize: $100 in AWS Credits per person thro
+ ugh AWS Activate and \n- AWS Free Usage Tier\n- 1 month AWS Support at Busi
+ ness level\n- AWS Technical Essentials Online Training ($600 value)\n- AWS 
+ Business Essentials Online Training ($600 value)\n- 80 credits for Self-pac
+ ed labs Training ($80 value)\n- 1:1 Office Hours with AWS Solutions Archite
+ cts\n- Access to the Startup Blog and Startup Forum\n- Special "Self-starte
+ r" Third-Party offers\n\nLink: https://aws.amazon.com/activate/event/a20h16
+ hck/ \n\nStay Tuned for More Prizes to Come!
+LAST-MODIFIED:20160406T124243Z
+LOCATION:Freeware Spaces\\\\\\\, No. No.4\\\\\\\, Jl. Bangka XII\\\\\\\, Ma
+ mpang Prpt.\\\\\\\, DKI Jakarta\\\\\\\, Daerah Khusus Ibukota Jakarta\\\\\\
+ \, Indonesia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:AngelHack Jakarta 2016
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160528T020000Z
+DTEND:20160529T110000Z
+DTSTAMP:20160407T114350Z
+ORGANIZER;CN=Faizal Rizal:mailto:faizalrizalz@gmail.com
+UID:9c0f6udb3k1r7e468scfml57h8@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=St
+ artup & Tech Events in Indonesia - TIA;X-NUM-GUESTS=0:mailto:techinasia.com
+ _pul1gvbcmrkkgd82abunkdjgr8@group.calendar.google.com
+CREATED:20160330T075735Z
+DESCRIPTION:4 years. More than 300 hackathons. More than 96 cities around t
+ he globe. We’ve seen it all. And from all of these events\\\\\\\, we’ve not
+ iced one thing: Anyone. Can. Code.\nAge\\\\\\\, race\\\\\\\, gender\\\\\\\,
+  experience level\\\\\\\, it doesn’t matter. Passion and dedication is what
+  you need to create apps and technologies that have never been imagined bef
+ ore. Implementation and creativity are what differentiate you. Mind and ski
+ ll are what conquer all.\nWelcome to AngelHack’s 9th Global Hackathon Serie
+ s\\\\\\\, where Anyone. Can. Code.\n\nPrizes:\nLet’s face it\\\\\\\, prizes
+  just make hackathons more fun. That’s why each year\\\\\\\, we team up wit
+ h our sponsors to bring you an awesome set of prizes. Drumroll please:\n\nA
+ n exclusive invite to our HACKcelerator Program\n- A 12-week Curriculum to 
+ turn your hackathon idea into a startup reality\n- A diverse network of bot
+ h local and global mentors\n- Weekly guest speakers\n- A chance to fly to S
+ ilicon Valley for our Annual Global Demo Day and participate in a week of e
+ xtensive pitch training!\n- Free membership to work at Freeware Spaces for 
+ 3 months\nAmazon Web Services\n- Prize: $100 in AWS Credits per person thro
+ ugh AWS Activate and \n- AWS Free Usage Tier\n- 1 month AWS Support at Busi
+ ness level\n- AWS Technical Essentials Online Training ($600 value)\n- AWS 
+ Business Essentials Online Training ($600 value)\n- 80 credits for Self-pac
+ ed labs Training ($80 value)\n- 1:1 Office Hours with AWS Solutions Archite
+ cts\n- Access to the Startup Blog and Startup Forum\n- Special "Self-starte
+ r" Third-Party offers\n\nLink: https://aws.amazon.com/activate/event/a20h16
+ hck/ \n\nStay Tuned for More Prizes to Come!\n
+LAST-MODIFIED:20160330T075736Z
+LOCATION:Freeware Spaces\\\\\\\, No. No.4\\\\\\\, Jl. Bangka XII\\\\\\\, Ma
+ mpang Prpt.\\\\\\\, DKI Jakarta\\\\\\\, Daerah Khusus Ibukota Jakarta\\\\\\
+ \, Indonesia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:AngelHack Jakarta 2016
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160528T020000Z
+DTEND:20160529T110000Z
+DTSTAMP:20160407T114350Z
+ORGANIZER;CN=Edo Aditya:mailto:deoreo06@gmail.com
+UID:5q63um84v3rsq2u39kun20cmss@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=St
+ artup & Tech Events in Indonesia - TIA;X-NUM-GUESTS=0:mailto:techinasia.com
+ _pul1gvbcmrkkgd82abunkdjgr8@group.calendar.google.com
+CREATED:20160330T053805Z
+DESCRIPTION:4 years. More than 300 hackathons. More than 96 cities around t
+ he globe. We’ve seen it all. And from all of these events\\\, we’ve noticed
+  one thing: Anyone. Can. Code.\nAge\\\, race\\\, gender\\\, experience leve
+ l\\\, it doesn’t matter. Passion and dedication is what you need to create 
+ apps and technologies that have never been imagined before. Implementation 
+ and creativity are what differentiate you. Mind and skill are what conquer 
+ all.\nWelcome to AngelHack’s 9th Global Hackathon Series\\\, where Anyone. 
+ Can. Code.\n\nPrizes:\nLet’s face it\\\, prizes just make hackathons more f
+ un. That’s why each year\\\, we team up with our sponsors to bring you an a
+ wesome set of prizes. Drumroll please:\n\nAn exclusive invite to our HACKce
+ lerator Program\n- A 12-week Curriculum to turn your hackathon idea into a 
+ startup reality\n- A diverse network of both local and global mentors\n- We
+ ekly guest speakers\n- A chance to fly to Silicon Valley for our Annual Glo
+ bal Demo Day and participate in a week of extensive pitch training!\n- Free
+  membership to work at Freeware Spaces for 3 months\nAmazon Web Services\n-
+  Prize: $100 in AWS Credits per person through AWS Activate and \n- AWS Fre
+ e Usage Tier\n- 1 month AWS Support at Business level\n- AWS Technical Esse
+ ntials Online Training ($600 value)\n- AWS Business Essentials Online Train
+ ing ($600 value)\n- 80 credits for Self-paced labs Training ($80 value)\n- 
+ 1:1 Office Hours with AWS Solutions Architects\n- Access to the Startup Blo
+ g and Startup Forum\n- Special "Self-starter" Third-Party offers\n\nLink: h
+ ttps://aws.amazon.com/activate/event/a20h16hck/ \n\nStay Tuned for More Pri
+ zes to Come!\n
+LAST-MODIFIED:20160330T053805Z
+LOCATION:Freeware Spaces\\\, No. No.4\\\, Jl. Bangka XII\\\, Mampang Prpt.\
+ \\, DKI Jakarta\\\, Daerah Khusus Ibukota Jakarta\\\, Indonesia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:AngelHack Jakarta 2016
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160427T010000Z
+DTEND:20160427T100000Z
+DTSTAMP:20160407T114350Z
+UID:muv9n7es13mkj2bdo5hi4djd04@google.com
+CREATED:20160317T132213Z
+DESCRIPTION:Indonesia Digital Payment 2016 is event that gives the opportun
+ ity to meet from the entire local payments services\, know of trends of pay
+ ments\, share knowledge and more cases study. \n• The shifting landscape of
+  digital payments \n• How to capture the customers: harness the power of ma
+ ss-adoption to cross the chasm from physical to digital \n• How to capture 
+ the merchants: expose payment APIs to retailers \n• The factors to get righ
+ t in formulating a digital payments strategy \n• The factors to get right i
+ n executing a digital payments strategy\n\nFor more information:\nhttp://ww
+ w.marketing.co.id/idp/\n\nTicket Reservation:\nMirandha/Fitri\n0811 150 292
+ 2\n0811 180 7072\n\nHotline 021 4585 7040\nFax. 021 4585 7039\nemail: semin
+ ar@marketing.co.id
+LAST-MODIFIED:20160317T170111Z
+LOCATION:The Ritz-Carlton Jakarta\, Mega Kuningan\, Jl. DR. Ide Anak Agung 
+ Gde Agung Kav.E.1.1 No.1\, Mega Kuningan Timur 3\, East Kuningan\, Jakarta 
+ Selatan\, South Jakarta City\, Special Capital Region of Jakarta\, Indonesi
+ a
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Indonesia Digital Payment 2016
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160427T030000Z
+DTEND:20160428T090000Z
+DTSTAMP:20160407T114350Z
+UID:jqs1m684u22d58mudohivfulvo@google.com
+CREATED:20160317T073529Z
+DESCRIPTION:Indonesia E-Commerce Association (idEA) berinisiatif untuk meng
+ adakan Indonesia E-Commerce Summit & Expo (IESE) pada tanggal 27 hingga 29 
+ April 2016. IESE diadakan untuk menjadi sebuah forum pertemuan bergengsi ba
+ gi para pemangku kepentingan di bisnis e-commerce Indonesia.\n\nAcara ini a
+ kan menampilkan 72 pembicara yang berasal dari dalam negeri dan luar negeri
+ \, serta 150 eksibitor. Mereka akan berbicara dalam summit dan workshop yan
+ g akan diselenggarakan sepanjang acara. Untuk mengadakan acara ini\, idEA p
+ un bekerja sama dengan Kementerian Perdagangan\, Kementerian Komunikasi dan
+  Informasi\, serta Badan Ekonomi Kreatif (Bekraf).\n\nInformasi lebih lanju
+ t:\nhttp://iese.id/ 
+LAST-MODIFIED:20160317T165954Z
+LOCATION:ICE BSD\, Jalan BSD Grand Boulevard\, BSD City\, Tangerang\, Bante
+ n\, Indonesia
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Indonesia E-Commerce Summit & Expo (IESE) 2016
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160413
+DTEND;VALUE=DATE:20160414
+DTSTAMP:20160407T114350Z
+UID:07m1u9o5r4nb4cvgda7vb28qcg@google.com
+CREATED:20160317T075726Z
+DESCRIPTION:F8\, Facebook's developer conference is taking place on April 1
+ 2-13\, 2016 in San Francisco. At this annual event\, Facebook introduces it
+ s newest products and shares a glimpse into its future. Since not everyone 
+ can attend this event\, Facebook launched F8 Meetups for the tech community
+ .\n\nThis year\, Facebook is partnering with Kejora to cohost F8 Meetup Jak
+ arta on April 13th\, 2016 at 6:00 pm at KejoraHQ. During the event\, we wil
+ l have dinner and networking followed by streaming of the opening keynote o
+ f F8.\n\nAGENDA\n18:00 - 19:00  Dinner & Registration\n19:00 - 19:15  Openi
+ ng by MC and speech by Facebook representative\n19:15 - 19:30  Introduction
+  of Kejora and testimonial from startups (Qerja & Cupslice)\n19:30 - 20:15 
+  F8 Opening keynote (recorded)\n20:15 - 20:45  Q&A with Facebook representa
+ tive\n \nQuestions? Reach out to us at f8@kejorahq.com\n\nRegistration:\nht
+ tps://f8meetupjakarta.splashthat.com/
+LAST-MODIFIED:20160317T165757Z
+LOCATION:Kejora HQ - Wisma Barito Pacific\, Tower A Level 6\, Jalan Letjen 
+ S. Parman\, Kav 62-63. Jakarta Barat
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:F8 Meetup Jakarta
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160412T020000Z
+DTEND:20160413T110000Z
+DTSTAMP:20160407T114350Z
+UID:qtkdji88ukoce98ck43t6uovds@google.com
+CREATED:20160316T111922Z
+DESCRIPTION:What would a 5\,000-strong crowd mean for you? More content. Ev
+ en greater opportunities to kickstart conversations about funding for your 
+ startup. A higher chance to hire that developer or meet a slew of promising
+  startups. Tech in Asia Singapore 2016 is undoubtedly going to be bigger th
+ an before.\nThe question is: are you going to be a part of this 5\,000?\n\n
+ For more information and tickets\, check out http://events.techinasia.com/s
+ g2016/ today!
+LAST-MODIFIED:20160317T165613Z
+LOCATION:Suntec City\, Singapore
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:(SG) Tech in Asia Singapore 2016
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160405T013000Z
+DTEND:20160406T110000Z
+DTSTAMP:20160407T114350Z
+UID:n6a2s4s4dtkse7qq9b578r8ei4@google.com
+CREATED:20160317T081123Z
+DESCRIPTION:Echelon Indonesia 2016 (April 5-6) is a two-day global business
+  and technology conference localised for the Indonesian market. Designed sp
+ ecially for any enterprise committed in propelling their businesses to the 
+ next level\, it is set to be a one stop\, 360-degree platform for the conve
+ rgence of tech\, business and lifestyle - to facilitate knowledge-exchange\
+ , idea-sharing\, trade partnerships and networking opportunities. \n\nEchel
+ on Indonesia 2016 is the only stage designed for startups\, SMEs and corpor
+ ates to be empowered by tech\, through top-tier keynotes and panels\, inten
+ sive workshops\, startup pitching\, marketplace and talent exhibitions\, st
+ ructured networking sessions and crucial community connections. From e-comm
+ erce to edtech\, and domestic demand to global growth - be there to discove
+ r the fresh faces of Indonesia’s young\, high-potential consumer market.\n\
+ nMore information:\nhttp://www.eventbrite.sg/e/echelon-indonesia-2016-empow
+ ering-through-innovation-tickets-19436275423 
+LAST-MODIFIED:20160317T165516Z
+LOCATION:Balai Kartini\, Jl. Jend. Gatot Subroto\, Kuningan Tim.\, Setia Bu
+ di\, Kota Jakarta SelatanKecamatan Setiabudi\, Daerah Khusus Ibukota Jakart
+ a\, Indonesia
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Echelon Indonesia 2016: Empowering through Innovation
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160402T120000Z
+DTEND:20160402T150000Z
+DTSTAMP:20160407T114350Z
+UID:gh3gb84e8qpf78dh6s9dngovfc@google.com
+CREATED:20160317T074357Z
+DESCRIPTION:Grand Launching CEO COMMUNITY INDONESIA\n\nWe Meet We Share We 
+ Grow\nSemangat yang tergambar dari eksistensi CEO Community Indonesia\nDala
+ m konteks event Grand Launching CEO Community Indonesia semangat tersebut a
+ kan diaplikasikan dalam bentuk materi visual dan gimmick aktivitas panggung
+  dan floor.\n\nInformasi lebih lanjut:\nhttp://www.ceocommunity.id/events/g
+ rand-launching-cci-2016/
+LAST-MODIFIED:20160317T165332Z
+LOCATION:Ballroom Arion Swiss - Belhotel. Kemang\, Jakarta
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Grand Launching CEO COMMUNITY INDONESIA
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160319T040000Z
+DTEND:20160319T070000Z
+DTSTAMP:20160407T114350Z
+UID:f8j4d11c77tp3mhon6h98jjp3k@google.com
+CREATED:20160317T165113Z
+DESCRIPTION:Everyday Entrepreneurs kali ini ingin memberikan edukasi tentan
+ g hukum dan perpajakan agar para entrepreneurs atau mereka yang ingin memul
+ ai dapat lebih sadar hukum dan tidak bingung dengan sistem perpajakan di In
+ donesia. Everyday Entrepreneurs berharap event ini mampu menghapus pandanga
+ n bahwa legalitas dan perpajakan adalah hal yang rumit\, serta menumbuhkan 
+ kesadaran taat membayar pajak.\n\nSpeaker: \nWidiandhoko Wicaksono S.H.\, M
+ .Kn. (Notaris dan legal expert)\nFabianus Setiawan (Online-Pajak.com)\n\nDa
+ te: 19 March 2016\nTime:  11:00 - 14:00\nEvent Organizer: Everyday Entrepre
+ neurs\nPayment: Rp200.000 (termasuk lunch)\n\nAbout Widiandhoko Wicaksono:\
+ nWicak adalah seorang notaris dan legal expert yang telah membantu banyak k
+ lien untuk men-setup perusahaan mereka\, serta berkonsultasi mengenai perma
+ salahan legal.\n\nAbout Fabianus Setiawan:\nFabi adalah bagian dari tim Onl
+ ine-Pajak.com\, sebuah website yang menawarkan kemudahan mengisi\, menghitu
+ ng\, membayar dan melaporkan segala pajak untuk bisnis dalam satu proses se
+ cara online.\n\nInfo dan registrasi:\nhttp://www.gepi.co/event/detail/567/l
+ egal-taxation-for-starting-business
+LAST-MODIFIED:20160317T165219Z
+LOCATION:GEPI - DBS Tower\, Ciputra World 1\, Level 9. Jl. Prof. Dr. Satrio
+  Kav. 3-5. Jakarta 12940 – Indonesia
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Legal & Taxation for Starting Business
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160316T120000Z
+DTEND:20160316T150000Z
+DTSTAMP:20160407T114350Z
+UID:58jm7pqjd64s6s6qq8hd0ppbio@google.com
+CREATED:20160317T164542Z
+DESCRIPTION:ABOUT THE EVENT\n\nWe know you can code\, but what's next?\nThe
+ re are as many ways to implement code as there are developers to implement 
+ it\, which is one of the things that makes software development such a fun 
+ profession. This also means there are many opinions about what makes good\,
+  or high-quality\, software. What one developer values in terms of code qua
+ lity may be very different than what another developer values.\nIn this eve
+ nt\, we will see how with basic principal of designs\, we can improve the q
+ uality of the code. Attendees are suggested to understand the basic of Obje
+ ct Oriented concept. \n \nABOUT THE SPEAKER\n\nDaniel Witono\, CEO and Co-f
+ ounder\, Jurnal.id \nDaniel Witono is the CEO and Co-founder of Jurnal\, a 
+ tech company delivering web-based accounting solutions for small to medium 
+ businesses. We simplify administrative processes to only the essentials. It
+  gives users the convenience of operating their business at any place and t
+ ime\, on any device. Businesses running Jurnal are equipped with the right 
+ tools to be a professional business. \nPrior to founding Jurnal\, Daniel ha
+ s worked as Software Developer at Veritrans and Microsoft (Seattle\, US). \
+ nDaniel graduated from the University of New South Wales with a Bachelor De
+ gree in Computer Engineering.\n\nFor more information:\nhttps://www.eventbr
+ ite.com/e/tech-talk-increase-code-quality-by-design-tickets-22784518107
+LAST-MODIFIED:20160317T164542Z
+LOCATION:EV Hive Coworking Space\, Jalan Kyai Maja No. 39 The Maja\, 1st Fl
+ oor\, Kby. Baru\, Daerah Khusus Ibukota Jakarta\, Indonesia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Tech Talk - Increase Code Quality by Design
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160315T120000Z
+DTEND:20160315T150000Z
+DTSTAMP:20160407T114350Z
+UID:ppge33aae9uk9p2vp22v03bi5s@google.com
+CREATED:20160317T160653Z
+DESCRIPTION:ARE YOU IN THE RIGHT DIRECTION?\n \nABOUT THE EVENT\n>> Have yo
+ u ever felt that your job is the one for you?\n>> Is your job is fulfilling
+  your goal(s) in life? \n>> Did you feel miserable every morning and just w
+ ant to go home on time? \n>> Do you think you are going somewhere? Is it fu
+ rthering your professional development? \nIn the first series of the Career
+  Clinic\, we are going to discuss on those points above (and more)\, take a
+  test on what is your:\n- passion\n- skill\n- interest\n- value\nand get yo
+ u accessed by the mentor. \n\nPlease note that:\nThis will be an interactiv
+ e session so attendances are expected to participate actively. \nYou need t
+ o bring your laptop to take the online test. \n \nABOUT THE MENTOR\nIvan Ja
+ nitra Podiman is a Certified Professional Resume Writer (CPRW) from Profess
+ ional Association of Resume Writer (PARW) and a Certified Resume Strategist
+  (CRS) from Careers Professionals of Canada (CPC).\nHe is also the Founder 
+ of EXEARCH Indonesia\, an executive search firm who have conducted C-level 
+ and middle management search for Fortune 500 companies\, Multinational Join
+ t Ventures\, Indonesian listed public companies\, and startup industries.\n
+ Ivan earned his Master of Business Administration (MBA) from IE Business Sc
+ hool\, Madrid\, and Singapore Management University. Prior to that\, he obt
+ ained his Bachelor of Commerce\, Marketing\, and Minor in Psychology from T
+ he University of British Columbia\, Canada. \n\nCOACHING FEE: IDR 150.000 (
+ include dinner) \n \nPLEASE TRANSFER YOUR PAYMENT TO:\nPT EVI ASIA TENGGARA
+ \nBCA - KCU WISMA ASIA\nBank account number: 08407-99077\n \nPLEASE CONFIRM
+  YOUR PAYMENT TO:\nby email: dewi@east.vc\nby WhatsApp: 081905299051\n\nFor
+  more information:\nhttps://www.eventbrite.com/e/career-clinic-1-are-you-in
+ -the-right-direction-tickets-22864590606
+LAST-MODIFIED:20160317T160653Z
+LOCATION:EV Hive Coworking Space\, Jalan Kyai Maja No. 39 The Maja\, 1st Fl
+ oor\, Kby. Baru\, Daerah Khusus Ibukota Jakarta\, Indonesia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Career Clinic #1 - Are you in the right direction?
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160310T120000Z
+DTEND:20160310T140000Z
+DTSTAMP:20160407T114350Z
+UID:ju693v0nlqufehsui7rd1m4i94@google.com
+CREATED:20160317T151236Z
+DESCRIPTION:Key takeaways:\n- Founding story\n- Popbox in a nutshell and ho
+ w it works\n- Rethink delivery and O2O\n- Revenue model\n- His insight on c
+ hallenges for logistics in Indonesia\n\nSpeaker:\nAdrian Lim\, CEO and Cofo
+ under of Popbox\nMr. Adrian Lim is Co-Founder and CEO of PT PopBox Asia Ser
+ vices\, a specialized automated parcels solution provider. Headquartered in
+  Jakarta\, PopBox Asia provides automated parcel lockers touch point that s
+ erve the local e-commerce and courier companies. The Company currently has 
+ over 50 touch points in Indonesia and serving clients such as Mataharimall.
+ com and JNE. \n\nFor more information:\nhttps://www.eventbrite.com/e/biz-ta
+ lk-o2o-development-in-indonesia-a-logistic-perspective-tickets-21809291177
+LAST-MODIFIED:20160317T151236Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Biz Talk - O2O Development in Indonesia - a Logistic Perspective
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160303T120000Z
+DTEND:20160303T140000Z
+DTSTAMP:20160407T114350Z
+UID:4qgjtjk26pgijnp3aaa7hvi3k4@google.com
+CREATED:20160317T150906Z
+DESCRIPTION:According to Internet Retailer\, retail sales via smartphones i
+ n the United States increased by 101% in the first quarter of 2014\, compar
+ ed to the same period in 2013. In addition\, the average order value on pur
+ chases made by smartphones increased 12% and conversion rates increased by 
+ 29%. What’s more\, Forrester\, a research firm\, predicts that 29% of all e
+ -commerce transactions in the United States in 2014 will be mobile commerce
+  transactions. How about e-commerce in Indonesia? Case study: Berrybenka.co
+ m\n\nAbout the speaker:\nLily Suriani\, VP Marketing & Business Development
+  at Berrybenka\nThe former magazine editor who turned to be an online marke
+ teer at Berrybenka.com\n\nMore information:\nhttps://www.eventbrite.com/e/b
+ iz-talk-m-commerce-the-rise-of-mobile-tickets-22191462261
+LAST-MODIFIED:20160317T150906Z
+LOCATION:EV Hive Coworking Space\, Jalan Kyai Maja No. 39 The Maja\, 1st Fl
+ oor\, Kby. Baru\, Daerah Khusus Ibukota Jakarta\, Indonesia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Biz Talk - M-Commerce : The Rise of Mobile
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160324T120000Z
+DTEND:20160324T140000Z
+DTSTAMP:20160407T114350Z
+UID:5ejiribt3kgdjsebk71g5mji7k@google.com
+CREATED:20160317T150008Z
+DESCRIPTION:AMA (Ask Me Anything) Session with Aldi Adrian Hartanto (Fenox 
+ VC) is coming! For entrepreneurs\, fundraising is an initial matter to thin
+ k about. This seminar focuses on the "team building process" for getting in
+ vestment\, such as "What kind of skills do your company's core members expe
+ ct to have?"\, "How can you recruit potential board members when you are in
+  Seed round?"\, "How can you manage the motivation of these members?". Aldi
+  will answer any questions from you based on his great experience in Fenox 
+ VC.\n\nIn the beginning of the event\, Wantedly will do an introduction of 
+ their service (about social recruiting). You can know the alternative appro
+ ach for getting the great talents.\n\nSpeaker:\nAldi Adrian Hartanto (Fenox
+  VC)\nKentaro Adachi (Wantedly) - Host Speaker\n\nMore information:\nhttp:/
+ /www.gepi.co/event/detail/576/how-can-we-hire-good-talents-for-getting-inve
+ stment-ask-me-anything
+LAST-MODIFIED:20160317T150008Z
+LOCATION:DBS Tower Lantai 9\, Ciputra World 1\, Jl. Prof. Dr. Satrio Kav. 3
+ -5\, Jakarta
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:How Can We Hire Good Talents for Getting Investment? Ask Me Anythin
+ g!
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160315T120000Z
+DTEND:20160315T140000Z
+DTSTAMP:20160407T114350Z
+UID:ik5jb0q0qc3jcnl0ir46ksdsj8@google.com
+CREATED:20160317T145309Z
+DESCRIPTION:Learn about the Indonesian mobile growth in this event by Growt
+ h Hacking Asia! During 90 minutes\, Nadine from Tech in Asia and the audien
+ ce will ask questions to the panelists on their views on Indonesia's tech e
+ cosystem\, how they were able to grow so rapidly and their insights on futu
+ re trends. This is a great opportunity to ask questions accross the tech ec
+ osystem in Indonesia\, growth techniques\, scaling a startup\, and their in
+ dustries (transport - ecommerce). \n\nSpeakers: \n\nMagnus Ekbom (CEO\, Laz
+ ada Indonesia) - Panelist\nMarisa Paramita (Marketing Manager\, Uber Indone
+ sia) - Panelist\nKevin Cahya (Associate\, East Ventures)\nNadia Freischlad 
+ (Writer\, Tech in Asia) - Moderator\n\nDate: 15 March 2016\nTime:  19:00 - 
+ 21:00\n\nEvent Organizer: Growth Hacking Asia\n\nPayment:\nEarly Bird (the 
+ first 15 tickets): IDR 100\,000\nRegular ticket: IDR 150\,000\nStartup Pack
+ age (minimum 3 tickets): IDR 400\,000\nGHA Partner Tickets (with discount c
+ ode): IDR 100\,000\nOn the spot ticket: IDR 175\,000\n\nAgenda:\n18.30 - 19
+ .00: Networking Session\n19.00 - 20.30: Q&As from Nadine Freischlad\, write
+ r at Tech in Asia\, and live questions from the audience. \n20.30 - 21.00: 
+ Post-Panel networking and brain-picking\n\nMore information:\nhttp://www.ge
+ pi.co/event/detail/552/indonesian-mobile-growth-panel-discussion
+LAST-MODIFIED:20160317T145342Z
+LOCATION:DBS Tower Lantai 9\, Ciputra World 1\, Jl. Prof. Dr. Satrio Kav. 3
+ -5\, Jakarta
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Indonesian Mobile Growth Panel Discussion
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160323T110000Z
+DTEND:20160323T150000Z
+DTSTAMP:20160407T114350Z
+UID:2pv1o1953j1fumantbnmtla0d8@google.com
+CREATED:20160316T083442Z
+DESCRIPTION:App Annie akan segera mengunjungi Jakarta untuk pertama kalinya
+ ! Ini adalah kesempatan bagi kamu untuk mengikuti diskusi seru penuh insigh
+ t menarik dari AppAnnie yang dapat membuat rencana user acquisition dan mon
+ etisasi kamu lebih baik lagi. Kamu juga akan mengetahui seperti apa suasana
+  kompetisi dan posisi kamu dalam persaingan di industri aplikasi mobile.\n\
+ nDecode Jakarta adalah acara eksklusif khusus bagi tamu VIP yang mendapatka
+ n undangan. Acara ini diadakan oleh App Annie bekerja sama dengan AppsFlyer
+  dan Tech in Asia. Tentunya\, Decode Jakarta sayang sekali untuk kamu lewat
+ kan\, terutama bagi startup yang bergerak di industri mobile atau kamu yang
+  tertarik dan ingin mempelajari ranah ini.\n\nAgenda\n7:00 PM - 7:30 PM: Ch
+ eck in\, grab a drink\, claim a front row seat \n7:30 PM - 8:00 PM: Dinner 
+ & Networking\n8:00 PM - 8:10 PM: Keynote by App Annie: 2016 Mobile Forecast
+  and Key Market Trends in Indonesia\n8:10 PM - 9:00 PM: Panel Discussion: M
+ obile App Market in Indonesia "User acquisition\, engagement & revenue oppo
+ rtunities"\n9:00 PM - 10:30 PM: Drinks & Networking\n\nSpeakers:\n- Samuel 
+ Chan - CEO HyperGrowth\n- Daniel Pang - Research & Analysis App Annie\n\nUn
+ tuk registrasi dan info lebih lanjut:\nhttps://decodejakarta.splashthat.com
+ / \n\n
+LAST-MODIFIED:20160317T141718Z
+LOCATION:Kaffeine\, Jalan Jendral Sudirman\, Kav. 52. South Jakarta City\, 
+ Special Capital Region of Jakarta\, Indonesia
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:App Annie "Decode Jakarta"
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160321T120000Z
+DTEND:20160321T140000Z
+DTSTAMP:20160407T114350Z
+UID:ujp8n03ftshs3ep1l6nlm1u8c0@google.com
+CREATED:20160317T141710Z
+DESCRIPTION:The Challenges of Managing Customer Service at Two Different St
+ artups \nwith \nRyan Gondokusumo (Co-Founder of Sribu\, Sribulancer and Hal
+ o Diana)\n\nDate / Time :  Monday\, March 21th\, 2016 @ 7.00pm\nLocation:  
+ GEPI\nCiputra World I\, DBS Bank Tower Lantai 9\nJl. Prof. Dr. Satrio Kav. 
+ 3-5\, Karet\, Kuningan\n\nSchedule: \n19.00- 19.15 : Registration & Network
+ ing\n19.15 - 20.30 : Sharing and Interview Sessions\n20.30 - 21.00 : Networ
+ king and end of event\n\nCP: Natasha@bornevia.com\n\nMore information:\nhtt
+ ps://www.eventbrite.com/e/the-challenges-on-managing-customer-service-at-tw
+ o-different-startups-with-ryan-gondokusumo-tickets-22570989437
+LAST-MODIFIED:20160317T141710Z
+LOCATION:Two Different Startups with Ryan Gondokusumo (Co-Founder of Sribu\
+ , Sribulancer and Halo Diana)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Challenges of Managing Customer Service at Two Different Startu
+ ps  with  Ryan Gondokusumo (Co-Founder of Sribu\, Sribulancer and Halo Dian
+ a)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160318T060000Z
+DTEND:20160318T113000Z
+DTSTAMP:20160407T114350Z
+UID:9jb5c2g68sj008mjv9hptqp8ug@google.com
+CREATED:20160317T140030Z
+DESCRIPTION:Seminar Internet Marketing "SEO 2016 | 1 Juta Traffic\, 1 Tahun
+ " adalah perhelatan nasional berbentuk workshop yang membahas mengenai Trik
+ -trik terbaru SEO serta semua aspek teknis dan non teknis dalam dunia bisni
+ s Internet Marketing.\n\nBagi Kamu yang termasuk Praktisi Digital Marketing
+ \, event ini akan sangat membantu anda untuk dapat menciptakan atau menamba
+ h alternatif bagaimana mendatangkan traffic pada website anda.\nEvent SEO 2
+ 016 1 Juta Traffic\, 1 Tahun ini diselenggarakan oleh UpToPromo\n\nDengan P
+ embicara:\nRiyeke Ustadyanto/Mas Keke - Pakar SEO\, Founder IPAYMU\, WIFIMU
+ \, PEER.CO.ID\nEdgart Hartono - CEO UPTOPROMO/SEO & Backlink Expert\n\nBaga
+ imana cara mengikuti Seminar ini?\nDaftarkan diri anda pada reservation for
+ m ini\, kemudian konfirmasikan pembayaran anda melalui Email atau Telepon y
+ ang tertera.\nBerapa Biaya Seminar SEO ini & Bagaimana cara pembayarannya:\
+ nPembayaran Tiket Rp. 350.000\,- per orang di-transferkan melalui rekening 
+ tertera berikut ini:\nBank Account: Bank Central Asia\nNo Rekening: 4830273
+ 641\nNama Rekening: Ferri\nCabang: UNTAR II\, S. Parman\, Jakarta Barat\nLa
+ kukan konfirmasi pembayaran dengan mengirimkan Nama Lengkap & Nomor \n\nHan
+ dphone yang dapat dihubungi:\nInformasikan melalui Email fogcommunication@g
+ mail.com atau Telepon 081903259000.\n\nInfo dan pendaftaran:\nhttps://www.e
+ ventbrite.sg/e/seminar-internet-marketing-2016-tickets-22786320498
+LAST-MODIFIED:20160317T141250Z
+LOCATION:CGV Blitz Pacific Place\, Pacific Place Mall Lt. 6\, Jl. Jend Sudi
+ rman Kav. 52-53\, Daerah Khusus Ibukota Jakarta\, Indonesia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Seminar Internet Marketing 2016
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160528T090000Z
+DTEND:20160528T100000Z
+DTSTAMP:20160407T114350Z
+UID:7r17i08psbuckvspp4rhave5ug@google.com
+CREATED:20160317T055507Z
+DESCRIPTION:Registration link:\nhttps://www.eventbrite.com/e/tedxubud-2016-
+ small-things-great-things-tickets-20139390459
+LAST-MODIFIED:20160317T133205Z
+LOCATION:Fivelements\, Puri Ahimsa - Banjar Adat Baturning Mambal Abiansema
+ l \, Badung 80352\, Indonesia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TEDxUbud 2016: Small Things\, Great Things
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160528T020000Z
+DTEND:20160529T110000Z
+DTSTAMP:20160407T114350Z
+UID:i06g7nubhr9gcs295b70t9feds@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Startu
+ p & Tech Events in Indonesia - TIA;X-NUM-GUESTS=0:mailto:techinasia.com_pul
+ 1gvbcmrkkgd82abunkdjgr8@group.calendar.google.com
+CREATED:20160317T054953Z
+DESCRIPTION:4 years. More than 300 hackathons. More than 96 cities around t
+ he globe. We’ve seen it all. And from all of these events\, we’ve noticed o
+ ne thing: Anyone. Can. Code.\nAge\, race\, gender\, experience level\, it d
+ oesn’t matter. Passion and dedication is what you need to create apps and t
+ echnologies that have never been imagined before. Implementation and creati
+ vity are what differentiate you. Mind and skill are what conquer all.\nWelc
+ ome to AngelHack’s 9th Global Hackathon Series\, where Anyone. Can. Code.\n
+ \nPrizes:\nLet’s face it\, prizes just make hackathons more fun. That’s why
+  each year\, we team up with our sponsors to bring you an awesome set of pr
+ izes. Drumroll please:\n\nAn exclusive invite to our HACKcelerator Program\
+ n- A 12-week Curriculum to turn your hackathon idea into a startup reality\
+ n- A diverse network of both local and global mentors\n- Weekly guest speak
+ ers\n- A chance to fly to Silicon Valley for our Annual Global Demo Day and
+  participate in a week of extensive pitch training!\n- Free membership to w
+ ork at Freeware Spaces for 3 months\nAmazon Web Services\n- Prize: $100 in 
+ AWS Credits per person through AWS Activate and \n- AWS Free Usage Tier\n- 
+ 1 month AWS Support at Business level\n- AWS Technical Essentials Online Tr
+ aining ($600 value)\n- AWS Business Essentials Online Training ($600 value)
+ \n- 80 credits for Self-paced labs Training ($80 value)\n- 1:1 Office Hours
+  with AWS Solutions Architects\n- Access to the Startup Blog and Startup Fo
+ rum\n- Special "Self-starter" Third-Party offers\n\nLink: https://aws.amazo
+ n.com/activate/event/a20h16hck/ \n\nStay Tuned for More Prizes to Come!\n
+LAST-MODIFIED:20160317T133134Z
+LOCATION:Freeware Spaces\, No. No.4\, Jl. Bangka XII\, Mampang Prpt.\, DKI 
+ Jakarta\, Daerah Khusus Ibukota Jakarta\, Indonesia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:AngelHack Jakarta 2016
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160331T120000Z
+DTEND:20160331T140000Z
+DTSTAMP:20160407T114350Z
+UID:knulb099udjs7vrt6bhrbcvlks@google.com
+CREATED:20160317T054017Z
+DESCRIPTION:SEAMLESS PAYMENT FOR YOUR STARTUPS/BUSINESSES\n \nABOUT THE EVE
+ NT\nKey takeaways:\n- trends of online payment in Indonesia\n- the current 
+ composition of payment channels used by online shoppers\n- payment channels
+  available in Indonesia\n- preferred online payment channels\n\nSPEAKER\n- 
+ Diera Hartono\, VP of Community Management\nDiera acts as the VP of Communi
+ ty Management at Veritrans. Prior to her current role\, she was Head of Mar
+ keting at LivingSocial Indonesia and PR Senior Executive at DestinAsian Med
+ ia Group. She has been immersed in the world of integrated marketing commun
+ ications across industries of eCommerce\, luxury goods\, and media\, combin
+ ing her wealth of experiences in strategic marketing\, digital tactics\, an
+ d brand development. Diera received her Bachelor's in Communications from U
+ niversity of Wisconsin-Madison and her Master's degree also in Communicatio
+ ns from Northwestern University.\n \nMore info & registration:\nhttp://www.
+ eventbrite.com/e/seamless-payment-for-your-startupsbusinesses-tickets-22767
+ 141132
+LAST-MODIFIED:20160317T132733Z
+LOCATION:EV Hive Coworking Space\, Jalan Kyai Maja No. 39 The Maja\, 1st Fl
+ oor\, Kby. Baru\, Daerah Khusus Ibukota Jakarta\, Indonesia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Seamless Payment for Your Startups/Businesses
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160329T110000Z
+DTEND:20160329T143000Z
+DTSTAMP:20160407T114350Z
+UID:r9gefk0cpqho7vrivoq7a31ea0@google.com
+CREATED:20160317T053628Z
+DESCRIPTION:GRUPARA INC Presents:\nSharing Session "How These Giants Became
+  Giants"\, The story about how these founders built their way to become one
+  of Asia's unicorn.\nat FREEWARE Coworking Spaces Kemang\n\nwith\n- Achmad 
+ Zaky (CEO & Co Founder \, Bukalapak)\n- Nadiem Makarim (CEO & Co Founder\, 
+ Gojek)\n\n*Free for Entrepreneurs & Tech Enthusiasts\n\nMore info & registr
+ ation:\nhttps://www.eventbrite.com/e/how-these-giants-became-giants-with-bu
+ kalapak-gojek-at-freeware-spaces-tickets-22823194790\n\nCP: info@freewaresp
+ aces.com
+LAST-MODIFIED:20160317T132654Z
+LOCATION:Freeware Spaces\, No. No.4\, Jl. Bangka XII\, Mampang Prpt.\, DKI 
+ Jakarta\, Daerah Khusus Ibukota Jakarta\, Indonesia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sharing Session "How These Giants Became Giants"
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160413T110000Z
+DTEND:20160413T140000Z
+DTSTAMP:20160407T114350Z
+UID:q4kg4831os3dibk7jaase08i0o@google.com
+CREATED:20160317T072417Z
+DESCRIPTION:GRUPARA INC Presents:\nSharing Session "How Uber is getting the
+  South East Asian Market"\nat FREEWARE Coworking Spaces Kemang\n\nwith\n- A
+ lan Jiang (International launcher\, Uber)\n*Free for Entrepreneurs & Tech E
+ nthusiasts\,\n\nAbout speaker:\nAlan Jiang \nAlan Jiang is an International
+  Launcher at Uber\, a technology platform that matches drivers with riders 
+ at the tap of a button. Uber's mission is to empower drivers with alternati
+ ve income opportunities as well as provide riders with safe\, reliable\, an
+ d quick transportation options in their cities. Uber is currently available
+  in 300+ cities around the world\, and has helped bring technology and busi
+ ness innovation to urban transportation challenges.\nAlan has helped launch
+ ed Uber in cities all around Asia\, including Shanghai\, Kuala Lumpur\, Ho 
+ Chi Minh City\, Singapore\, and now Jakarta.\nPrior to Uber\, Alan worked a
+ s a consultant at EG and graduated from Yale with a degree in Economics.\n\
+ nCP: icha@freewarespaces.com\n\nRegistration link:\nhttps://www.eventbrite.
+ com/e/how-uber-is-getting-south-east-asia-with-alan-jiang-at-freeware-cowor
+ king-tickets-23034208939
+LAST-MODIFIED:20160317T072417Z
+LOCATION:Freeware Spaces\, No. No.4\, Jl. Bangka XII\, Mampang Prpt.\, DKI 
+ Jakarta\, Daerah Khusus Ibukota Jakarta\, Indonesia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:How UBER is Getting South East Asia with Alan Jiang at Freeware Cow
+ orking
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

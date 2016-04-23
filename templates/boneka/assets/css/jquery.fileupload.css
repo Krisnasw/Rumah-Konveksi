@@ -9,7 +9,25 @@
  * Licensed under the MIT license:
  * http://www.opensource.org/licenses/MIT
  */
-
+ .slct{
+  width:90%;
+ }
+.center{
+  text-align: center;
+}
+input[type=file] {
+    top: 0;
+    right: 0;
+    min-width: 50%;
+    min-height: 100%;
+    font-size: 14px;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 1;
+    outline: none;
+    background: #DFF0D8;
+    color: #639463;
+}
 .fileinput-button {
   position: relative;
   overflow: hidden;
